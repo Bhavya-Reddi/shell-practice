@@ -7,8 +7,8 @@ NAME=devops
 
 SUM=$(($NUMBER1+NUMBER2+NAME))
 
-echo "sum is : ${sum}"
+echo "sum is : ${SUM}"
 
 LEADERS=("Modi" "putin" "Trudo" "Trump")
 
-echo "all leaders: ${LEADERS[@]}
+echo "All leaders: ${LEADERS[@]}"
