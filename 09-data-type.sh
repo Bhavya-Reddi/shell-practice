@@ -6,4 +6,4 @@ name=devops
 
 SUM=$(($NUMBER1+NUMBER2+name))
 
-Eecho "sum is : ${sum}"
+echo "sum is : ${sum}"
