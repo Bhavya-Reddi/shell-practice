@@ -1,0 +1,8 @@
+#!/bin/bash
+#EVERYTHING IN SHELL IS CONSIDERD AS STRING
+NUMBER1=100
+NUMBER=200
+
+SUM=$(($NUMBER1+NUMBER2))
+
+Eecho "sum is : ${sum}"
